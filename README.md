@@ -6,4 +6,4 @@ This project is a personal project to motivate and give advice and inspire a wom
 
 2. `npm start`
 
-
+### Project will be promply deployed on heroku.
